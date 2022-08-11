@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Hoje trabalho como desenvolvedor full-stack na Capgemni
+- 🔭 Hoje trabalho como desenvolvedor front-end na Capgemni
 - 🌱 Estou estudando Angular.
 - 📫 E-mail para contato: pablodepine96@gmail.com
 
