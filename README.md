@@ -1,7 +1,7 @@
 ### Olá 👋
 
-- 🔭 Hoje trabalho como desenvolvedor full-stack
-- 🌱 Estou estudando Angular e React.
+- 🔭 Hoje trabalho como desenvolvedor full-stack na Capgemni
+- 🌱 Estou estudando Angular.
 - 📫 E-mail para contato: pablodepine96@gmail.com
 
 <div>
