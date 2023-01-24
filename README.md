@@ -3,12 +3,6 @@
 - 🔭 Hoje trabalho como desenvolvedor front-end na Capgemni
 - 🌱 Estou estudando Angular.
 - 📫 E-mail para contato: pablodepine96@gmail.com
-
-<div>
-  <a href="https://github.com/pablodepine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablodepine&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodepine&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
